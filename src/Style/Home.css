@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    
+  }
+  h1{
+    text-align: center;
+  }
+  img{
+    margin-top: 20px;
+    float: left;
+    width: 600px;
+    height: 370px;
+  }
+  .Para{
+    margin-top: 100px;
+    color: gold;
+    width: 1350px;  
+  }
+  .aboutme{
+    margin-left: 250px;
+    font-size:x-large;
+  }
+  
